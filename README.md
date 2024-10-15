@@ -39,19 +39,11 @@ To install and run this project, follow these steps:
    cd Chicago-Lobbyist-Database-CS341_P2
    ```
 
-2. **Set Up the Environment**:
-   Ensure you have Python installed (preferably Python 3.6+). Create and activate a virtual environment:
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
+2. **Prerequisites**
+- Python 3.x
+- SQLite3
 
-3. **Install Dependencies**:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-4. **Database Setup**:
+3. **Database Setup**:
    Ensure the database file `Chicago_Lobbyists.db` is in the project directory. If not, create or obtain it.
 
 ## Usage
