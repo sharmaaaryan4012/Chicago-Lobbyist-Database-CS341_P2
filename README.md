@@ -50,7 +50,7 @@ To install and run this project, follow these steps:
 
 To run the application, execute the `main.py` script:
 ```sh
-python main.py
+python3 main.py
 ```
 
 You will be presented with a menu to choose from various commands:
